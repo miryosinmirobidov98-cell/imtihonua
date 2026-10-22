@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 100%;
+    width: 85%;
+    margin: 0 auto;
+}
+
+nav {
+    color: black;
+}
+
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: orangered;
+}
+
+.header-btn {
+    padding: 20px 30px;
+    border: none;
+    background-color: orangered;
+}
+
+.header-btn:hover {
+    padding: 20px 35px;
+    border: none;
+    background-color: black;
+    color: orangered;
+}
+
+.section-1 {
+    width: 530px;
+    font-size: 66px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.section-2 {
+    width: 450px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 160px;
+    right: 440px;
+}
+
+.section-3 {
+    width: 384px;
+}
+
+.delivery {
+    display: flex;
+    align-items: center;
+}
+
+.links {
+    display: flex;
+    gap: 40x;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div3 {
+    display: flex;
+    align-items: center;
+
+}
+
+.p2 {
+    width: 449px;
+    position: relative;
+    right: 380px;
+    top: 75px;
+    color: black;
+}
+
+span {
+    color: orangered;
+}
+
+.section-btn {
+    padding: 25px 30px;
+    border-radius: 50px 25px;
+    background-color: orangered;
+    position: relative;
+    left: 600px;
+    bottom: 200px;
+}
+
+p {
+    color: black;
+}
+
+.avo-btn {
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 50px;
+    position: relative;
+    right: 400px;
+    top: 250px;
+}
+
+.avo6 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.h1 {
+    position: relative;
+    top: 200px;
+    right: 250px;
+}
+
+.p3 {
+    position: relative;
+    top: 250px;
+    right: 400px;
+}
+
+.container3 {
+    max-width: 100%;
+    width: 85%;
+    margin: 0 auto;
+    position: relative;
+    top: 500px;
+    
+}
+
+.skur {
+    width: 500px;
+    font-size: 66px;
+}
+
+.skur-2 {
+    width: 500px;
+}
+
+.img {
+    position: relative;
+    bottom: 300px;
+    left: 550px;
+}
+
+.footer {
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+footer {
+    padding: 250px;
+    background-color: salmon;
+    position: relative;
+    top: 250px;
+    border-radius: 50px;
+}
+
+.miryosin {
+    background-color: salmon;
+    padding: 25px;
+    border: 2px solid black;
+    position: relative;
+    right: 150px;
+    bottom: 30px;
+    border-radius: 50px;
+}
+
+input {
+    width: 1500px;
+    height: 150px;
+    border-radius: 25px;
+    font-size: 100px;
+}
